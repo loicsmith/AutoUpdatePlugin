@@ -1,3 +1,6 @@
+<img src="https://media.discordapp.net/attachments/1174014039333031936/1188465480588083211/AutoUpdatePlugin_20231224_135635_0000.png" width="300"/>
+
+
 # PLUGIN AutoUpdatePlugin
 
 Plugin permettant de faire automatiquement les mises à jours des divers plugins sur le jeu Nova-Life : Amboise
