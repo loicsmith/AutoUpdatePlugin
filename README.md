@@ -1,2 +1,22 @@
-# AutoUpdatePlugin
-En cours...
+# PLUGIN AutoUpdatePlugin
+
+Plugin permettant de faire automatiquement les mises à jours des divers plugins sur le jeu Nova-Life : Amboise
+
+# Contact
+
+En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith (ou Loicsmith#0275)
+
+
+## Installation manuelle
+1. Télecharger le plugin (le .dll) : en cours.
+2. Placer le dans votre dossier plugins de votre serveur
+3. Démarrer votre serveur
+4. Un fichier de configuration vient de se crée dans le dossier AutoUpdateConfig. Voir ci dessus pour apprendre à le configurer.
+
+## Fonctionnalités 
+- Met à jour vos plugins de manière automatique sur votre serveur !
+- AutoUpdatePlugin est inclut nativement dans les plugins de Loicsmith.
+
+## Ajouts, retraits, modification du fichier de configuration
+
+en cours..
