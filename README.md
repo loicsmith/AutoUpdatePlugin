@@ -22,4 +22,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Ajouts, retraits, modification du fichier de configuration
 
-en cours..
+
+
+https://github.com/loicsmith/AutoUpdatePlugin/assets/49919696/154510ed-1f16-45c0-93b9-da918202ffab
+
