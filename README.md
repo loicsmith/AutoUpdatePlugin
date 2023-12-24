@@ -11,7 +11,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 
 ## Installation manuelle
-1. Télecharger le plugin (le .dll) : en cours.
+1. Télecharger le plugin (le .dll) : https://github.com/loicsmith/AutoUpdatePlugin/releases/tag/AutoUpdatePlugin
 2. Placer le dans votre dossier plugins de votre serveur
 3. Démarrer votre serveur
 4. Un fichier de configuration vient de se crée dans le dossier AutoUpdateConfig. Voir ci dessus pour apprendre à le configurer.
